@@ -1,0 +1,1 @@
+cycles render : reduce bounce + reduce transmission + add clamping 1.0
